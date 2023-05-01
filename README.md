@@ -1,0 +1,1 @@
+Python script/bot to emulate some Statmuse functionality
